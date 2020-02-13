@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-fee-base",
+  "version": "1.0.2",
+  "description": "fee base code standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@10.0.225.88:30022/fee/eslint-config-fee-base.git"
+  },
+  "keywords": [
+    "eslint",
+    "fee",
+    "standard"
+  ],
+  "author": "tchen",
+  "license": "ISC"
+}
